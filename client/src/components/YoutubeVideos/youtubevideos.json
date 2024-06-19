@@ -1,0 +1,284 @@
+{
+	"kind": "youtube#searchListResponse",
+	"etag": "N0os-6yo--mLFO70SLbeBoKhX7w",
+	"nextPageToken": "CAgQAA",
+	"regionCode": "ET",
+	"pageInfo": {
+		"totalResults": 218,
+		"resultsPerPage": 8
+	},
+	"items": [
+		{
+			"kind": "youtube#searchResult",
+			"etag": "rIpeDr0RS2xawfj_YX_upnWeJE0",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "bks2zGnssMY"
+			},
+			"snippet": {
+				"publishedAt": "2024-03-18T16:01:57Z",
+				"channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+				"title": "iPhone 15 Storage | Don’t Let Me Go | Apple",
+				"description": "Lots of storage for lots of photos. iPhone 15 with storage starting at 128GB. Learn more about iPhone 15 and iPhone 15 Plus: ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/bks2zGnssMY/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/bks2zGnssMY/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/bks2zGnssMY/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Apple",
+				"liveBroadcastContent": "none",
+				"publishTime": "2024-03-18T16:01:57Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "cKwuuTsFRwfI_TraE9m6NCNjudo",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "qqGmh8pXCPk"
+			},
+			"snippet": {
+				"publishedAt": "2024-03-06T05:00:42Z",
+				"channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+				"title": "Shot on iPhone 15 Pro | The Making of Midnight | Apple",
+				"description": "Director Takashi Miike brings to life “Midnight,” a manga by Osamu Tezuka. Go behind the scenes of the live-action manga ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/qqGmh8pXCPk/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/qqGmh8pXCPk/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/qqGmh8pXCPk/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Apple",
+				"liveBroadcastContent": "none",
+				"publishTime": "2024-03-06T05:00:42Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "Fy6Xdnc1nHHAv8rFhq7zMR3S5T4",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "xd_LmXNBz5w"
+			},
+			"snippet": {
+				"publishedAt": "2024-03-06T05:00:38Z",
+				"channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+				"title": "Shot on iPhone 15 Pro | Midnight | Apple",
+				"description": "Director Takashi Miike brings to life “Midnight,” a manga by Osamu Tezuka. All shot on iPhone 15 Pro. A mysterious taxi driver ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/xd_LmXNBz5w/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/xd_LmXNBz5w/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/xd_LmXNBz5w/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Apple",
+				"liveBroadcastContent": "none",
+				"publishTime": "2024-03-06T05:00:38Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "JrNbpbyU_JixQSjL2D71dhDDT-E",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "j0X8sOdv3bg"
+			},
+			"snippet": {
+				"publishedAt": "2024-02-17T22:00:40Z",
+				"channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+				"title": "Shot on iPhone | USHER | Apple Music Super Bowl LVIII Halftime Show | Apple",
+				"description": "The epic show, like you've never seen before. All shot on iPhone by Director Mike Carson. Take a closer look inside USHER's ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/j0X8sOdv3bg/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/j0X8sOdv3bg/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/j0X8sOdv3bg/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Apple",
+				"liveBroadcastContent": "none",
+				"publishTime": "2024-02-17T22:00:40Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "Q1o6YNlsJHB6gDmrWgTcV2m0xNA",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "aJ8lLdo6x_8"
+			},
+			"snippet": {
+				"publishedAt": "2024-02-02T15:18:01Z",
+				"channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+				"title": "First-Timer | Apple Vision Pro",
+				"description": "Apple Vision Pro is so simple to navigate using your eyes, hands, and voice. It's like you already know how to use it. Learn More: ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/aJ8lLdo6x_8/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/aJ8lLdo6x_8/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/aJ8lLdo6x_8/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Apple",
+				"liveBroadcastContent": "none",
+				"publishTime": "2024-02-02T15:18:01Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "RoYOYT3PwYAEpOF_fAjtAw1vRqc",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "IY4x85zqoJM"
+			},
+			"snippet": {
+				"publishedAt": "2024-01-28T22:50:41Z",
+				"channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+				"title": "Hello Apple Vision Pro",
+				"description": "Apple Vision Pro is here. Now, digital content blends seamlessly with your physical space. You can do the things you love in ways ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/IY4x85zqoJM/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/IY4x85zqoJM/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/IY4x85zqoJM/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Apple",
+				"liveBroadcastContent": "none",
+				"publishTime": "2024-01-28T22:50:41Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "5NPkLymShIQ9jYV0M7dsh0z9yPU",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "TPq4XRgC5gQ"
+			},
+			"snippet": {
+				"publishedAt": "2024-01-28T20:00:58Z",
+				"channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+				"title": "iPhone 15 Ceramic Shield | Swoop | Apple",
+				"description": "Ceramic Shield. Tougher than any smart phone glass. Relax, it's iPhone. Learn more about iPhone 15 at ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/TPq4XRgC5gQ/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/TPq4XRgC5gQ/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/TPq4XRgC5gQ/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Apple",
+				"liveBroadcastContent": "none",
+				"publishTime": "2024-01-28T20:00:58Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "dAkGncY9w9N9myWS5ifD2JjojNM",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "U1unmE6OlYM"
+			},
+			"snippet": {
+				"publishedAt": "2024-01-28T13:01:38Z",
+				"channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+				"title": "Shot on iPhone 15 Pro Max | Chinese New Year - Little Garlic | Apple",
+				"description": "Usher in the Year of the Dragon with a story about a young girl who has a special shapeshifting ability. Together with Director ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/U1unmE6OlYM/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/U1unmE6OlYM/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/U1unmE6OlYM/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Apple",
+				"liveBroadcastContent": "none",
+				"publishTime": "2024-01-28T13:01:38Z"
+			}
+		}
+	]
+}
